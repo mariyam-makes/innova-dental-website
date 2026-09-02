@@ -1,0 +1,6 @@
+{
+  "name": "Innova Dental Clinic",
+  "description": "Premium, calm, modern, and pain-free dental care clinic website with a sophisticated motion system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
